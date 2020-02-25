@@ -62,6 +62,8 @@ www.paypal.com
 twitter.com
 www.twitter.com
 
-#Folgende Adressen werden benötigt, wenn man sich in der Anwendung NVIDIA GeForce Experience anmelden möchte. Werden blockiert durch den Regex-Eintrag für die chinesische TLD.
+#Folgende Adressen werden benötigt, wenn man sich in der Anwendung NVIDIA GeForce Experience anmelden möchte.
+#Werden blockiert durch den Regex-Eintrag für die chinesische TLD.
+#Für diejenigen, die die aktuellen NVIDIA-Treiber über die Anwendung installieren, vielleicht interessant.
 accounts.nvgs.nvidia.cn
 login.nvgs.nvidia.cn
